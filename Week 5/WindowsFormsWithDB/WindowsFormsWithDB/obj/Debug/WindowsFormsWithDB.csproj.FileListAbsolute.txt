@@ -1,0 +1,12 @@
+C:\Users\julia\OneDrive\Desktop\ARU\ARU year 2\Trimester 1\Software Engineering\C# practise\Week 5\WindowsFormsWithDB\WindowsFormsWithDB\bin\Debug\PersonDB.mdf
+C:\Users\julia\OneDrive\Desktop\ARU\ARU year 2\Trimester 1\Software Engineering\C# practise\Week 5\WindowsFormsWithDB\WindowsFormsWithDB\bin\Debug\PersonDB_log.ldf
+C:\Users\julia\OneDrive\Desktop\ARU\ARU year 2\Trimester 1\Software Engineering\C# practise\Week 5\WindowsFormsWithDB\WindowsFormsWithDB\bin\Debug\WindowsFormsWithDB.exe.config
+C:\Users\julia\OneDrive\Desktop\ARU\ARU year 2\Trimester 1\Software Engineering\C# practise\Week 5\WindowsFormsWithDB\WindowsFormsWithDB\bin\Debug\WindowsFormsWithDB.exe
+C:\Users\julia\OneDrive\Desktop\ARU\ARU year 2\Trimester 1\Software Engineering\C# practise\Week 5\WindowsFormsWithDB\WindowsFormsWithDB\bin\Debug\WindowsFormsWithDB.pdb
+C:\Users\julia\OneDrive\Desktop\ARU\ARU year 2\Trimester 1\Software Engineering\C# practise\Week 5\WindowsFormsWithDB\WindowsFormsWithDB\obj\Debug\WindowsFormsWithDB.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Desktop\ARU\ARU year 2\Trimester 1\Software Engineering\C# practise\Week 5\WindowsFormsWithDB\WindowsFormsWithDB\obj\Debug\WindowsFormsWithDB.Properties.Resources.resources
+C:\Users\julia\OneDrive\Desktop\ARU\ARU year 2\Trimester 1\Software Engineering\C# practise\Week 5\WindowsFormsWithDB\WindowsFormsWithDB\obj\Debug\WindowsFormsWithDB.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Desktop\ARU\ARU year 2\Trimester 1\Software Engineering\C# practise\Week 5\WindowsFormsWithDB\WindowsFormsWithDB\obj\Debug\WindowsFormsWithDB.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Desktop\ARU\ARU year 2\Trimester 1\Software Engineering\C# practise\Week 5\WindowsFormsWithDB\WindowsFormsWithDB\obj\Debug\WindowsFormsWithDB.exe
+C:\Users\julia\OneDrive\Desktop\ARU\ARU year 2\Trimester 1\Software Engineering\C# practise\Week 5\WindowsFormsWithDB\WindowsFormsWithDB\obj\Debug\WindowsFormsWithDB.pdb
+C:\Users\julia\OneDrive\Desktop\ARU\ARU year 2\Trimester 1\Software Engineering\C# practise\Week 5\WindowsFormsWithDB\WindowsFormsWithDB\obj\Debug\WindowsFormsWithDB.Form1.resources
